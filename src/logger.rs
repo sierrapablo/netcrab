@@ -1,0 +1,1 @@
+// Configures logging for the application
